@@ -1,4 +1,4 @@
-# s21_matrix+ - Object-Oriented Matrix Library
+# CPP_matrix+ - Object-Oriented Matrix Library
 
 ## Contents
 1. [Introduction](#introduction)
